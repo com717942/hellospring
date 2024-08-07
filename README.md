@@ -4,6 +4,9 @@
 
 https://www.youtube.com/watch?v=wCCMoUatat8&list=PLumVmq_uRGHgBrimIp2-7MCnoPUskVMnd&index=18
 
+ex)
+http://localhost:8080/helloapi?name=spring
+
 
 myproject
 │
